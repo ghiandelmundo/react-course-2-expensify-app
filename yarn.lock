@@ -4964,6 +4964,13 @@
   "resolved" "https://registry.npmjs.org/min-indent/-/min-indent-1.0.1.tgz"
   "version" "1.0.1"
 
+"mini-css-extract-plugin@^2.6.0":
+  "integrity" "sha512-ndG8nxCEnAemsg4FSgS+yNyHKgkTB4nPKqCOgh65j3/30qqC5RaSQQXMm++Y6sb6E1zRSxPkztj9fqxhS1Eo6w=="
+  "resolved" "https://registry.npmjs.org/mini-css-extract-plugin/-/mini-css-extract-plugin-2.6.0.tgz"
+  "version" "2.6.0"
+  dependencies:
+    "schema-utils" "^4.0.0"
+
 "minimalistic-assert@^1.0.0":
   "integrity" "sha512-UtJcAD4yEaGtjPezWuO9wC4nwUnVH/8/Im3yEHQP4b67cXlD/Qr9hdITCU1xDbSEXg2XKNaP8jsReV7vQd00/A=="
   "resolved" "https://registry.npmjs.org/minimalistic-assert/-/minimalistic-assert-1.0.1.tgz"
@@ -7826,12 +7833,17 @@
     "clone-deep" "^4.0.1"
     "wildcard" "^2.0.0"
 
+"webpack-shell-plugin-next@^2.2.2":
+  "integrity" "sha512-2HeC1e0cCvTgA3SD4XPAD69DnILM92mCschrtKdlLRORHCR+oG7xnibQMkVySxTAYWTQOcBRHlqa88x4syWwhQ=="
+  "resolved" "https://registry.npmjs.org/webpack-shell-plugin-next/-/webpack-shell-plugin-next-2.2.2.tgz"
+  "version" "2.2.2"
+
 "webpack-sources@^3.2.3":
   "integrity" "sha512-/DyMEOrDgLKKIG0fmvtz+4dUX/3Ghozwgm6iPp8KRhvn+eQf9+Q7GWxVNMk3+uCPWfdXYC4ExGBckIXdFEfH1w=="
   "resolved" "https://registry.npmjs.org/webpack-sources/-/webpack-sources-3.2.3.tgz"
   "version" "3.2.3"
 
-"webpack@^4.0.0 || ^5.0.0", "webpack@^4.37.0 || ^5.0.0", "webpack@^5.0.0", "webpack@^5.1.0", "webpack@2 || 3", "webpack@4.x.x || 5.x.x", "webpack@5.72.1":
+"webpack@^4.0.0 || ^5.0.0", "webpack@^4.37.0 || ^5.0.0", "webpack@^5.0.0", "webpack@^5.1.0", "webpack@^5.18.0", "webpack@2 || 3", "webpack@4.x.x || 5.x.x", "webpack@5.72.1":
   "integrity" "sha512-dXG5zXCLspQR4krZVR6QgajnZOjW2K/djHvdcRaDQvsjV9z9vaW6+ja5dZOYbqBBjF6kGXka/2ZyxNdc+8Jung=="
   "resolved" "https://registry.npmjs.org/webpack/-/webpack-5.72.1.tgz"
   "version" "5.72.1"
