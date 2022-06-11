@@ -14,7 +14,7 @@
     "dev-server": "webpack-dev-server --env development",
     "prod-server": "webpack-dev-server --env production",
     "test": "jest --watchAll",
-    "server": "node server/server.js",
+    "start": "node server/server.js",
     "heroku-postbuild": "npm run build:prod"
   },
   "dependencies": {
