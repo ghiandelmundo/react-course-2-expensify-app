@@ -6,7 +6,7 @@ module.exports = (env) => {
     console.log('isProduction', isProduction);
     return {
         mode: isProduction ? 'production' : 'development',
-        entry: 'src/app.js',
+        entry: './src/app.js',
         output: {
             path: path.join(__dirname, 'public'),
             filename: 'bundle.js'
