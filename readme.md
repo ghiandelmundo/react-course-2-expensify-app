@@ -66,3 +66,7 @@ https://links.mead.io/budget-app
 
 15. > git remote add origin git@github.com:ghiandelmundo/react-course-2-expensify-app.git
 > git push -u origin master <- do it only once from the start
+
+16. > git push heroku master <- heroku push
+
+16. > heroku open <- heroku open on browser
